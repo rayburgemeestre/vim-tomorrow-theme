@@ -5,7 +5,8 @@
 
 " Default GUI Colours
 let s:foreground = "ffffff"
-let s:background = "002451"
+"let s:background = "002451"
+let s:background = "2424ff"
 let s:selection = "ff0000"
 let s:line = "00346e"
 let s:comment = "7285b7"

@@ -7,6 +7,7 @@
 let s:foreground = "4d4d4c"
 let s:background = "fafafa"
 let s:selection = "d6d6d6"
+"let s:selection = "ff0000"
 let s:line = "efefef"
 let s:comment = "8e908c"
 let s:red = "c82829"
